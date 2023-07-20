@@ -1,0 +1,56 @@
+{
+  "SerializedFilePath": "/Users/josephassiga/Desktop/training/konveyor/p2c-demo/dotnet5webapp/obj/Debug/net5.0/project.razor.json",
+  "FilePath": "/Users/josephassiga/Desktop/training/konveyor/p2c-demo/dotnet5webapp/dotnet5webapp.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "5.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 900
+  },
+  "RootNamespace": "dotnet5webapp",
+  "Documents": [
+    {
+      "FilePath": "/Users/josephassiga/Desktop/training/konveyor/p2c-demo/dotnet5webapp/Pages/Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/josephassiga/Desktop/training/konveyor/p2c-demo/dotnet5webapp/Pages/Shared/_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/josephassiga/Desktop/training/konveyor/p2c-demo/dotnet5webapp/Pages/Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/josephassiga/Desktop/training/konveyor/p2c-demo/dotnet5webapp/Pages/_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/josephassiga/Desktop/training/konveyor/p2c-demo/dotnet5webapp/Pages/_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/josephassiga/Desktop/training/konveyor/p2c-demo/dotnet5webapp/Pages/Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/josephassiga/Desktop/training/konveyor/p2c-demo/dotnet5webapp/Pages/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.3"
+}
